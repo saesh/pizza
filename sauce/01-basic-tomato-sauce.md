@@ -1,10 +1,10 @@
-# Basic tomato sauce
+# Basic Tomato Sauce
 
 This basic recipe makes for a classic tomato sauce.
 
 Draining the tomatoes of juice prevents having puddles of water on the pizza.
 
-## Ingridients
+## Ingredients
 
 - 2 cans whole tomatoes
 - tablespoon dried oregano
