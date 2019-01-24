@@ -7,10 +7,12 @@ Collection of pizza recipes I found to be useful. I have tried and tested every 
 Every pizza starts with a dough.
 
    * [Neapolitan pizza dough](dough/01-neapolitan-dough.md)
+   * [New York-Style Pizza Dough](dough/02-new-york-style-dough.md)
 
 ## Sauce
 
    * [Basic tomatoe sauce](sauce/01-basic-tomato-sauce.md)
+   * [New York-Style Tomato Sauce](sauce/02-new-york-style-tomato-sauce.md)
 
 ## Disclaimer
 
