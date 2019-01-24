@@ -6,11 +6,11 @@ Collection of pizza recipes I found to be useful. I have tried and tested every 
 
 Every pizza starts with a dough.
 
-   * [Neapolitan pizza dough](dough/01-neapolitan-dough.md)
+   * [Neapolitan Pizza Dough](dough/01-neapolitan-dough.md)
 
 ## Sauce
 
-   * [Basic tomatoe sauce](sauce/01-basic-tomato-sauce.md)
+   * [Basic Tomatoe Sauce](sauce/01-basic-tomato-sauce.md)
 
 ## Disclaimer
 
