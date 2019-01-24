@@ -10,7 +10,7 @@ Every pizza starts with a dough.
 
 ## Sauce
 
-   * [Basic Tomatoe Sauce](sauce/01-basic-tomato-sauce.md)
+   * [Basic Tomato Sauce](sauce/01-basic-tomato-sauce.md)
 
 ## Disclaimer
 
