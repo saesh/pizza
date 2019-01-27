@@ -19,7 +19,7 @@ Recipe source: https://www.seriouseats.com/recipes/2010/10/new-york-style-pizza-
 
 ## Process
 
-- crush tomatoes with potatoe stomper until no big pieces are left, puree until no big pieces left
+- crush tomatoes with potatoe stomper until no big pieces are left, puree a bit, should not be super smooth
 - combine oil and butter in pan until butter is melted
 - add oregano, garlic and pepper flakes, and pinch of salt, cook for a couple of minutes, don't let it brown
 - add tomato, basil, onion halves and sugar, cook for about one hour
