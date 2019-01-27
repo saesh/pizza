@@ -10,7 +10,7 @@ Thick crust on the outside and soft crust otherwise so it is easy to fold. Thin 
 
 ## Ingredients 
 
-| Ingredient    | Bakers percent | For 5 pizzas    |
+| Ingredient    | Bakers percent | For 4 pizzas    |
 | ------------- | -------------- | --------------- |
 | Bread Flour   | 100%           | 635 g           |
 | Water         | 67%            | 425 ml          |
@@ -24,7 +24,7 @@ Thick crust on the outside and soft crust otherwise so it is easy to fold. Thin 
 - mix flour, yeast, sugar and salt until homogenous
 - add lukewarm water and olive oil
 - mix by hand or machine until dough is smooth and forms a ball
-- cut into three parts and put in zipper bags
+- cut into four parts and put in zipper bags
 - keep in fridge up to 24 hours
 - at least 2h before baking form balls and flour well
 - put into bowl and let rise until volume is doubled
