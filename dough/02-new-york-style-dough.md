@@ -10,14 +10,16 @@ Thick crust on the outside and soft crust otherwise so it is easy to fold. Thin 
 
 ## Ingredients 
 
-| Ingredient    | Bakers percent | For 4 pizzas    |
-| ------------- | -------------- | --------------- |
-| Bread Flour   | 100%           | 635 g           |
-| Water         | 67%            | 425 ml          |
-| Salt          | 1,5%           | 10 g            |
-| Instant yeast |                | 2 teaspoons     |
-| Sugar         |                | 1,5 tablespoons |
-| Olive Oil     |                | 3 tablespoons   |
+| Ingredient     | Bakers percent | For 4 pizzas    |
+| -------------- | -------------- | --------------- |
+| Bread flour*   | 100%           | 635 g           |
+| Water          | 67%            | 425 ml          |
+| Salt           | 1,5%           | 10 g            |
+| Instant yeast  |                | 2 teaspoons     |
+| Sugar          |                | 1,5 tablespoons |
+| Olive oil      |                | 3 tablespoons   |
+
+*) Wheat flour type 550
 
 ## Process
 
