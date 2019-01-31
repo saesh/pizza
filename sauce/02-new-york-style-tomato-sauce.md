@@ -1,4 +1,4 @@
-# Basic Tomato Sauce
+# New York-Style Tomato Sauce
 
 A tomato sauce with butter. And sugar.
 
