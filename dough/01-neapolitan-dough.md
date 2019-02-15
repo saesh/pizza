@@ -8,7 +8,7 @@ The baked dough should have a light color but with dark spots, almost like a Leo
 
 ## Ingredients
 
-| Ingredient  | Bakers percent | For 6 pizzas |
+| Ingredient  | Baker's percent ([?][bakers-percent]) | For 6 pizzas |
 | ----------- | -------------- | ------------ |
 | Flour       | 100%           | 1000 g       |
 | Water       | 65%            | 650 ml       |
@@ -37,3 +37,5 @@ The baked dough should have a light color but with dark spots, almost like a Leo
 - [Tomato sauce](../sauce/01-basic-tomato-sauce.md)
 - Mozarella pieces (drained and patted dry)
 - fresh basil when done
+
+[bakers-percent]: https://www.weekendbakery.com/posts/bakers-percentage-demystified/
