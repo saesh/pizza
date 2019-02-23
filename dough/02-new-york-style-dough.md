@@ -10,7 +10,7 @@ Thick crust on the outside and soft crust otherwise so it is easy to fold. Thin 
 
 ## Ingredients 
 
-| Ingredient     | Bakers percent | For 4 pizzas    |
+| Ingredient     | Baker's percent ([?][bakers-percent]) | For 4 pizzas    |
 | -------------- | -------------- | --------------- |
 | Bread flour*   | 100%           | 635 g           |
 | Water          | 67%            | 425 ml          |
@@ -42,3 +42,5 @@ Thick crust on the outside and soft crust otherwise so it is easy to fold. Thin 
 
 - [New York-Style Tomato Sauce](../sauce/02-new-york-style-tomato-sauce.md)
 - dry, grated mozzarella cheese
+
+[bakers-percent]: https://www.weekendbakery.com/posts/bakers-percentage-demystified/
