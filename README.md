@@ -8,6 +8,7 @@ Every pizza starts with a dough.
 
    * [Neapolitan Pizza Dough](dough/01-neapolitan-dough.md)
    * [New York-Style Pizza Dough](dough/02-new-york-style-dough.md)
+   * [Focaccia Dough](dough/03-focaccia-dough.md)
 
 ## Sauce
 
