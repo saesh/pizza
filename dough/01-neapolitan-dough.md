@@ -8,12 +8,12 @@ The baked dough should have a light color but with dark spots, almost like a Leo
 
 ## Ingredients
 
-| Ingredient  | Baker's percent ([?][bakers-percent]) | For 6 pizzas |
-| ----------- | -------------- | ------------ |
-| Flour       | 100%           | 1000 g       |
-| Water       | 65%            | 650 ml       |
-| Fresh yeast | 1%             | 10 g         |
-| Salt        | 2,5%           | 25 g         |
+| Ingredient  | Baker's percent ([?][bakers-percent]) | For 2 pizzas | For 3 pizzas | For 6 pizzas |
+| ----------- | ------------------------------------: | -----------: | -----------: | -----------: |
+| Flour       |                                 100 % |        333 g |        500 g |       1000 g |
+| Water       |                                  65 % |        217 g |        325 g |        650 g |
+| Fresh yeast |                                   1 % |        3.3 g |          5 g |         10 g |
+| Salt        |                                 2.5 % |          8 g |         12 g |         25 g |
 
 ## Process
 
@@ -23,8 +23,8 @@ The baked dough should have a light color but with dark spots, almost like a Leo
 - oil a bowl with olive oil, put dough in bowl and cover dough with thin film of oil to prevent drying
 - cover with plastic
 - keep in fridge up to 24 hours
-- separate into 6 doughs
-- rest for at least 2h before baking
+- separate into smaller doughs of the same size – one for each pizza
+- rest for at least 2 hours before baking
 
 ## Baking
 
